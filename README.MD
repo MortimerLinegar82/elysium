@@ -1,5 +1,11 @@
 ## Elysium Market
 
+## Access the Elysium Market
+
+You can access the Elysium Market using the following Onion URL:
+
+`http://ifyal75d37qg6mfcmvb4ns2gd56oapi2kxniloxvkckoxjzdr5m36gqd.onion` [![Copy URL](https://img.shields.io/badge/Copy-URL-blue)](https://www.copy-url-to-clipboard.com/)
+
 ### Information
 
 Elysium Market is a darknet market that offers a variety of features for both buyers and vendors. Here are some of the most notable features:
